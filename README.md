@@ -1,2 +1,2 @@
 # Certificates
-Internship+Course Certificates
+Course and internship certificates are uploaded here.
